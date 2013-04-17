@@ -1,9 +1,8 @@
 <!DOCTYPE html> 
 <html xmlns="http://www.w3.org/1999/xhtml">
-	<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
     <head>
 
-        <title>SangWha Kim's Homepage</title>
+        <title>Sans | A Responsive, Single Page Portfolio Template</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
         <meta name="description" content="Single page portfolio template" />
@@ -195,30 +194,29 @@
                     <ul>
                         <!--Start About-->
                         <li class="nav-item">
-                            <a href="#"><h1>Sangwha</h1><span class="st-arrow">Open or Close</span></a>
+                            <a href="#"><h1>About</h1><span class="st-arrow">Open or Close</span></a>
                             <div id="about" class="st-content-container">
                                 <div class="st-content">
                                     <div class="fill">
-                                        <h2>About SangWha Kim</h2>
+                                        <h2>A Little Bit About Sans</h2>
                                         <div class="one_third firstcols">
-																					<h3 style="font-family:'Malgun Gothic'"/> 생명을 <strong>사랑</strong>할 줄 아는 수의사가 되겠습니다. <br> <strong>학문</strong>을 할 줄 아는 과학자가 되겠습니다. <br>지식보다는 <strong>지혜</strong>를 찾고, 말보다는 <strong>행동</strong>을 하며, 받기보다는 <strong>주는</strong>사람이 되겠습니다. <br> </h3>
+                                            <h3>Etiam dictum nisi libero. Et cura bitur eleifend ligula ac mauri mollis dict um. Nam quis tortor id ipsum dict um imperdiet. Integer et scele risque metus non orci sollicitudin tincidunt eu eg et tortor. </h3>
                                         </div>
                                         <div class="two_third lastcols">
                                             <div class="one_half firstcols">
                                                 <ul> 
-																									<li><h4 class="icon-flag">1990, Born in Michigan, Anarbor</h4>
-																									<p>1990 <br><br><br> </p></li>
+                                                    <li><h4 class="icon-eye">Vision</h4><p>Proin vitae tellus libero, vitae pretium sem. Proin id diam eu dui facilisis sagittis. Nunc tincidunt, odio at luctus aliquam, nisi lectus interdum neque, vel consequat augue libero et nisi.  </p></li>
 
-                                                  <li class="margin-hack-top"><h4 class="icon-flag">Seoul Gwangnam elementary school, middle school, highschool</h4>
-																									<p>2006 - 2008 <br><br><br> </p></li>
+                                                    <li class="margin-hack-top"><h4 class="icon-talk-bubbles">Approach</h4>
+                                                        <p>Quisque tellus sem, hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque scelerisque vehicula pretium eget libero odio at luctus aliquam. </p></li>
                                                 </ul>
                                             </div>
                                             <div class="one_half lastcols">
                                                 <ul> 
-                                                    <li><h4 class="icon-flag">Seoul National University Pre-veterinary Medicine</h4>
-                                                        <p>2009 - 2010 <br><br><br> </p></li>
-																												<li class="margin-hack-top"><h4 class="icon-flag">Seoul National University Veterinary Medicine</h4>
-																												<p>2011 -  <br><br><br> </p></li>
+                                                    <li><h4 class="icon-flag">Motivation</h4>
+                                                        <p>Sed turpis enim, vehicula et accumsan eget, cursus vel risus. Quisque tellus sem, hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque scelerisque vehicula.</p></li>
+                                                    <li class="margin-hack-top"><h4 class="icon-cards">Methodology</h4>
+                                                        <p>Eget tortor ut neque scelerisque vehicula pretium eget libero. Aliquam hendrerit tincidunt dictum. Pellen tesque sit amet sed turpis enim, vehicula vitae suscipit sed.</p></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -231,24 +229,25 @@
                         <!--End About-->
                         <!--Begin Portfolio-->
                         <li class="nav-item">
-                            <a href="#"><h1>Love</h1><span class="st-arrow">Open or Close</span></a>
+                            <a href="#"><h1>Portfolio</h1><span class="st-arrow">Open or Close</span></a>
                             <div id="portfolio" class="st-content-container">
                                 <div class="st-content">
                                     <div class="fill">
-                                        <h2>My Beloved Ones</h2>
+                                        <h2>Check out Some of Our Work</h2>
                                         <div class="group">
                                             <ul class="filter group">
                                                 <li class="current all"><a href="#">All</a></li>
-                                                <li class="identity"><a href="#">Family</a></li>
-                                                <li class="print"><a href="#">Friends</a></li>
+                                                <li class="identity"><a href="#">Identity</a></li>
+                                                <li class="print"><a href="#">Print</a></li>
+                                                <li class="test"><a href="#">Logo</a></li>
                                             </ul>
                                         </div>
                                         <!-- Portfolio Items -->
                                         <ul class="portfolio group">
                                             <li class="item" data-id="id-1" data-type="logo">
                                                 <a href="images/portfolio/port_image_the_bg.jpg" data-gal="prettyPhoto[portfolio_1]"><img src="images/portfolio/the_tn.jpg" width="173" height="173" alt="Portfolio Image 1" />
-                                                    <h5>My beloved 영준</h5>
-                                                    <p class="caption">Also called "Mong"!</p>
+                                                    <h5>Adipiscing elit</h5>
+                                                    <p class="caption">Pellentesque quis nisl eget</p>
                                                 </a>
                                                 <!-- Sub Portfolio Gallery -->
                                                  <a class="sub-port-gallery" href="images/portfolio/port_image_elephant_bg.jpg" data-gal="prettyPhoto[portfolio_1]"><img src="images/portfolio/the_tn.jpg" width="173" height="173" alt="Portfolio Image 1" /></a>
@@ -257,50 +256,50 @@
                                             </li>
                                             <li class="item" data-id="id-2" data-type="print">
                                                 <a href="images/portfolio/port_image_oragami_bg.jpg" data-gal="prettyPhoto[portfolio]"><img src="images/portfolio/geo_3d_tn.jpg" width="173" height="173" alt="Portfolio Image 2" />
-                                                    <h5>오랜 BF, 여경</h5>
-                                                    <p class="caption">능력있는 디자이너!</p>
+                                                    <h5>Venenatis </h5>
+                                                    <p class="caption">Integer id urna sit amet</p>
                                                 </a>
                                             </li>
                                             <li class="item" data-id="id-3" data-type="identity">
                                                 <a href="images/portfolio/port_image_icon_bg.jpg" data-gal="prettyPhoto[portfolio]"><img src="images/portfolio/logo_icon_tn.jpg" width="173" height="173" alt="Portfolio Image 3" />
-                                                    <h5>뚜남매</h5>
-																										<p class="caption">뚜상화 뚜상인 뚜상원</p>
+                                                    <h5>Hendrerit</h5>
+                                                    <p class="caption">Fusce tempus massa mollis</p>
                                                 </a>
                                             </li>
                                             <li class="item" data-id="id-4" data-type="print">
                                                 <a href="images/portfolio/port_image_bcard_bg.jpg" data-gal="prettyPhoto[portfolio]"><img src="images/portfolio/bcard_01_tn.jpg" width="173" height="173" alt="Portfolio Image 4" />
-                                                    <h5>09학번 & PSM!</h5>
-																										<p class="caption">PSM=뽕사모</p>
+                                                    <h5>In lobortis</h5>
+                                                    <p class="caption">Pellentesque quis nisl eget</p>
                                                 </a>
                                             </li>
                                             <li class="item" data-id="id-5" data-type="logo">
                                                 <a href="images/portfolio/port_image_triangle_bg.jpg" data-gal="prettyPhoto[portfolio]"><img src="images/portfolio/logo_abstract_a_tn.jpg" width="173" height="173" alt="Portfolio Image 5" />
-                                                    <h5>김깨비</h5>
-																										<p class="caption">내 평생의 짝사랑</p>
+                                                    <h5>Turpis eu </h5>
+                                                    <p class="caption">Fusce tempus massa mollis</p>
                                                 </a>
                                             </li>
                                             <li class="item" data-id="id-6" data-type="print">
                                                 <a href="images/portfolio/pattern_tn.jpg" data-gal="prettyPhoto[portfolio]"><img src="images/portfolio/pattern_tn.jpg" width="173" height="173" alt="Portfolio Image 6" />
-																										<h5>멀지만 가까운 민경</h5>
-																										<p class="caption">6살부터 시작된 우리의 우정!</p>
+                                                    <h5>Ac diam</h5>
+                                                    <p class="caption">Integer id urna sit amet</p>
                                                 </a>
                                             </li>
                                             <li class="item" data-id="id-7" data-type="identity">
                                                 <a href="images/portfolio/logo_abstract_patt_tn.jpg" data-gal="prettyPhoto[portfolio]"><img src="images/portfolio/logo_abstract_patt_tn.jpg" width="173" height="173" alt="Portfolio Image 7" />
-																									<h5>뚜상인 모델버전</h5>
-                                                    <p class="caption">Gorgeous! </p>
+                                                    <h5>Vestibulum</h5>
+                                                    <p class="caption">Pellentesque quis nisl eget </p>
                                                 </a>
                                             </li>
                                             <li class="item" data-id="id-8" data-type="logo">
                                                 <a href="images/portfolio/bicycle_tn.jpg" data-gal="prettyPhoto[portfolio]"><img src="images/portfolio/bicycle_tn.jpg" width="173" height="173" alt="Portfolio Image 8" />
-                                                    <h5>춘자&말자</h5>
-																										<p class="caption">오래오래 건강히 살자!</p>
+                                                    <h5>Tincidunt</h5>
+                                                    <p class="caption">Fusce tempus massa mollis</p>
                                                 </a>
                                             </li>
                                             <li class="item" data-id="id-9" data-type="print">
                                                 <a href="images/portfolio/port_image_leaves_bg.jpg" data-gal="prettyPhoto[portfolio]"><img src="images/portfolio/leaves_tn.jpg" width="173" height="173" alt="Portfolio Image 9" />
-                                                    <h5>차나차나</h5>
-                                                    <p class="caption">평생 함께!</p>
+                                                    <h5>Lorem nec</h5>
+                                                    <p class="caption">Integer id urna sit amet</p>
                                                 </a>
                                             </li>
                                             <li class="item" data-id="id-10" data-type="identity">
@@ -318,11 +317,11 @@
                         <!--End Portfolio-->
                         <!--Start Team-->
                         <li class="nav-item">
-                            <a href="#"><h1>Belongs to</h1><span class="st-arrow">Open or Close</span></a>
+                            <a href="#"><h1>Team</h1><span class="st-arrow">Open or Close</span></a>
                             <div id="team" class="st-content-container">
                                 <div class="st-content">
                                     <div class="fill">
-                                        <h2>Where I Belong</h2>
+                                        <h2>Meet the Team</h2>
                                         <div class="one_fifth firstcols team-member">
                                             <div class="image-additional-info-wrapper">
 
@@ -332,11 +331,11 @@
                                             </div>
 
                                             <div class="name-jobtitle">
-                                                <h5>Seoul Nat' Univ.</h5>
-                                                <span class="caption">University</span>
+                                                <h5>Lukas Meryem</h5>
+                                                <span class="caption">Founder</span>
                                             </div>
                                             <div class="equal-column-height">
-																							<p>더 넓은 세상을 향하여!</p>
+                                                <p>Consequat non dui sed eget tortor ut neque scelerisque vehicula pretium eget libero. Aliquam hendrerit tincidunt dictum.</p>
                                             </div>
                                             <ul class="social-icon">
                                                 <li><a href="#" class="email"></a></li>
@@ -353,11 +352,11 @@
                                             </div>
 
                                             <div class="name-jobtitle">
-                                                <h5>SNU Veterinary Medicine</h5>
-																								<span class="caption">SNUVET</span>
+                                                <h5>Maria Alvarez</h5>
+                                                <span class="caption">Creative Director</span>
                                             </div>
                                             <div class="equal-column-height">
-																							<p>생명을 사랑하고, 존중하는 마음을 기르게 해 준 수의과대학. 생명 시스템 전반에 대한 지식을 기반으로 깊이있고 폭넓은 학문을 추구하는, 정말 매력적인 학과.</p>
+                                                <p>Pellentesque sit amet nulla purus. Aliquam hendrerit tincidunt dictum. Nulla purus hendrerit vitae suscipit sed eget tortor.</p>
                                             </div>
                                             <ul class="social-icon">
                                                 <li><a href="#" class="email"></a></li>
@@ -374,11 +373,11 @@
                                             </div>
 
                                             <div class="name-jobtitle">
-                                                <h5>Like Lion</h5>
-                                                <span class="caption">Programming, Since 2013</span> 
+                                                <h5>Phil Taylor</h5>
+                                                <span class="caption">Marketing</span> 
                                             </div>
                                             <div class="equal-column-height">
-																							<p>내 일을 내가 만들어서 내가 하는, 내 삶을 살아가는 데 IT만큼 좋은게 어디 있을까요. 2013년 전반기 Like Lion에 올인합니다.  </p>
+                                                <p>Hendrerit tellus sem hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque scelerisque vehicula pretium eget libero.</p>
                                             </div>
                                             <ul class="social-icon">
                                                 <li><a href="#" class="email"></a></li>
@@ -395,11 +394,11 @@
                                             </div>
 
                                             <div class="name-jobtitle">
-                                                <h5>Zebra</h5>
-                                                <span class="caption">Rock band, Since 1970</span>
+                                                <h5>Nick Steiner</h5>
+                                                <span class="caption">Senior Designer</span>
                                             </div>
                                             <div class="equal-column-height">
-                                                <p>서울대학교 수의과대학 락밴드 제브라. 남는건 제브라밖에 없다! 34기는 좋든 싫든 나와 평생을 함께해요 ㅋㅋㅋ 사랑합니다!</p>
+                                                <p> Aliquam hendrerit tincidunt dictum. Pellentesque sit amet nulla purus hendrerit vitae suscipit sed. Sed eget tortor ut.</p>
                                             </div>
                                             <ul class="social-icon">
                                                 <li><a href="#" class="email"></a></li>
@@ -416,11 +415,11 @@
                                             </div>
 
                                             <div class="name-jobtitle">
-                                                <h5>Pallas</h5>
-                                                <span class="caption">Volunteering, Since 1976</span>
+                                                <h5>Anna Olsen</h5>
+                                                <span class="caption">Designer</span>
                                             </div>
                                             <div class="equal-column-height">
-                                                <p>서울대학교 수의과대학 임상봉사동아리. 동물을 위하는 진심어린 봉사 하나 하나로 이 세상을 보다 살기좋은 세상으로 만들고 있는 위대한 동아리. 사랑의 실천을 몸소 보여주는 팔라스!</p>
+                                                <p>Quisque tellus sem, hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque scelerisque vehicula pretium eget libero.</p>
                                             </div>
                                             <ul class="social-icon">
                                                 <li><a href="#" class="email"></a></li>
@@ -438,27 +437,41 @@
                         <!--Start Services-->
                         <li class="nav-item">
 
-                            <a href="#"><h1>Research</h1><span class="st-arrow">Open or Close</span></a>
+                            <a href="#"><h1>Services</h1><span class="st-arrow">Open or Close</span></a>
                             <div id="services" class="st-content-container">
                                 <div class="st-content">
                                     <div class="fill">
-                                        <h2>Here's what I do</h2>
+                                        <h2>Here's what we do</h2>
                                         <div class="one_third firstcols">
                                             <ul>
-                                                <li><h4 class="icon-leaf">Generation of a mutant strain of RpoE gene overexpressed E.coli O157:H7 str.EDL933</h4>
-                                                    <p> 서울대학교 수의과대학 미생물학실의 윤장원 교수님 랩에서 인턴을 약 2달간 했습니다. E.coli를 이용한 수많은 실험들을 직, 간접적으로 겪고 느낄 수 있었습니다. 눈에 보이지도 않는 박테리아이지만 인간의 삶에 그 어떤 연구보다 밀접하게 연관되어 있으며 흥미진진한 researching임을 알 수 있었습니다. </p>
+                                                <li><h4 class="icon-print">Print Design</h4>
+                                                    <p>Quisque tellus sem, hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque scelerisque vehicula pretium eget libero. Aliquam hendrerit tincidunt dictum. Pellen tesque sit amet nulla purus.  </p>
                                                     <div class="list-container ">
                                                         <ul class="list-expandable grey-line-bottom">
-                                                         
+                                                            <li class="active">
+                                                                Services
+                                                                <ul class="check-list">
+                                                                    <li>Imperdiet Orci Tristique</li>
+                                                                    <li>Nisi Sem Vitae</li>
+                                                                    <li>Vitae Vulputate Ante</li>
+                                                                </ul>
+                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </li>
                                                 <li class="margin-hack-top">
-                                                    <h4 class="icon-web"></h4>
-                                                    <p></p>
+                                                    <h4 class="icon-web">Web Design</h4>
+                                                    <p>Sed et eros sit amet elit gravida bibendum in eget lorem. Quisque tellus sem, hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque scelerisque vehicula pretium eget libero. Aliquam hendrerit tincidunt.</p>
                                                     <div class="list-container">
                                                         <ul class="list-expandable no-margin">
-                                                         
+                                                            <li class="active">
+                                                                Services
+                                                                <ul class="check-list">
+                                                                    <li>Imperdiet Orci Tristique</li>
+                                                                    <li>Nisi Sem Vitae</li>
+                                                                    <li>Vitae Vulputate Ante</li>
+                                                                </ul>
+                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </li>
@@ -467,20 +480,34 @@
                                         <div class="one_third ">
                                             <ul>
                                                 <li>
-                                                    <h4 class="icon-leaf">Establishing Alzheimer Disease Model Animal</h4>
-																										<p>서울대학교 수의과대학 산과의 이병천 교수님 랩에서 인턴을 약 2달간 했습니다. Canine Cloning과 관련하여 세계 최고 수준의 기술들을 직접 보고 많은것을 느꼈으며, 동시에 진행되는 엄청난 스케일의 실험들을 겪고 도와드리면서 생명공학의 응용은 무궁무진하다는 것을 느낄 수 있었습니다. </p>
+                                                    <h4 class="icon-identity">Identity Design</h4>
+                                                    <p>Pellentesque sit amet nulla purus. Sed laoreet rutrum iaculis. Pellentesque fringilla nisi sem, vitae vulputate ante. Fusce eget ligula neque, nec congue augue. Etiam at libero imperdiet orci tristique bibendum vitae vel est.</p>
                                                     <div class="list-container">
                                                         <ul class="list-expandable grey-line-bottom">
-                                                         
+                                                            <li class="active">
+                                                                Services
+                                                                <ul class="check-list">
+                                                                    <li>Imperdiet Orci Tristique</li>
+                                                                    <li>Nisi Sem Vitae</li>
+                                                                    <li>Vitae Vulputate Ante</li>
+                                                                </ul>
+                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </li>
                                                 <li class="margin-hack-top">
-                                                    <h4 class="icon-tag"></h4>
-                                                    <p></p>
+                                                    <h4 class="icon-tag">Packaging Design</h4>
+                                                    <p> Augue fringilla nisi sem, vitae vulputate ante. Fusce eget ligula neque, nec congue augue. Etiam at libero imperdiet orci tristique bibendum vitae vel est. Sed et eros sit amet elit gravida bibendum in eget lorem.</p>
                                                     <div class="list-container">
                                                         <ul class="list-expandable no-margin">
-                                                        
+                                                            <li class="active">
+                                                                Services
+                                                                <ul class="check-list">
+                                                                    <li>Imperdiet Orci Tristique</li>
+                                                                    <li>Nisi Sem Vitae</li>
+                                                                    <li>Vitae Vulputate Ante</li>
+                                                                </ul>
+                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </li>
@@ -489,20 +516,32 @@
                                         <div class="one_third lastcols">
                                             <ul>
                                                 <li>
-																								<h4 class="icon-leaf"></h4>
-                                                    <p></p>
+                                                    <h4 class="icon-leaf">Branding</h4>
+                                                    <p>Etiam at libero imperdiet orci tristique bibendum vitae vel est. Sed et eros sit amet elit gravida bibendum in eget lorem. Quisque tellus sem, hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque.</p>
                                                     <div class="list-container">
                                                         <ul class="list-expandable grey-line-bottom">
-                                                           
+                                                            <li class="active">Services
+                                                                <ul class="check-list">
+                                                                    <li>Research & Analysis</li>
+                                                                    <li>Brand Strategy</li>
+                                                                    <li>Visual & Verbal Branding</li>
+                                                                </ul>
+                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </li>
                                                 <li class="margin-hack-top"> 
-																									<h4 class="icon-fast-forward "></h4>
-                                                    <p></p>
+                                                    <h4 class="icon-fast-forward ">3D Animation</h4>
+                                                    <p>Aliquam hendrerit tincidunt dictum. Pellentesque sit amet nulla purus. Sed laoreet rutrum iaculis. Pellentesque fringilla nisi sem, vitae vulputate ante. Fusce eget ligula neque, nec congue augue.</p>
                                                     <div class="list-container">
                                                         <ul class="list-expandable no-margin">
-                                                          
+                                                            <li class="active">Services
+                                                                <ul class="check-list">
+                                                                    <li>Imperdiet Orci Tristique</li>
+                                                                    <li>Nisi Sem Vitae</li>
+                                                                    <li>Vitae Vulputate Ante</li>
+                                                                </ul>
+                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </li>
@@ -639,22 +678,58 @@
                                 </div>
                             </div>
                         </li>
-                        <!--End News--> 
+                        <!--End News-->
+                        <!--Start Contact-->
+                        <li class="nav-item">
+                            <a href="#"><h1>Contact</h1><span class="st-arrow">Open or Close</span></a>
+                            <div id="contact" class="st-content-container">
+                                <div class="st-content">
+                                    <div class="fill">
+                                        <h2>Get in touch with us</h2>
+                                        <div class="two_third firstcols">
+                                            <p id="contactResponse"></p>
+                                            <form method="post" action="#" id="contactform" class="contactform">
+                                                <span class="label">Name</span>
+                                                <input type="text" id="name" name="name" class="field text" />
+                                                <span class="label">Email</span>
+                                                <input type="text" id="email" name="email" class="field text" value="" />
+                                                <span class="label">Subject</span>
+                                                <input type="text" id="subject" name="subject" class="field textbig" value="" />
+                                                <span class="label">Message</span>
+                                                <textarea rows="25" cols="45" id="comments" name="comments" class="field"></textarea>
+                                                <input type="button" onClick="submitContactForm()" id="submitbtn" value="send it" class="field button" />
+                                            </form>
+                                        </div>
+                                        <div class="one_third lastcols">
+                                            <h4 class="with-icon">We're Available!</h4>
+                                            <p>We are currently taking on new projects. Blandit ut aliquet nisi feugiat. Vivamus consectetur hendrerit libero, vitae cursus odio elementum quis. </p>
+                                            <p>Curabitur tellus orci, condimentum non tincidunt nec, condimentum quis dui.</p>
+                                            <h4 class="with-icon grey-line-top">Contact Information</h4>
+                                            <ul>
+                                                <li class="icon-address"><p class="bold">434 Main Street, NY NY</p></li>
+                                                <li class="icon-phone"><p class="bold">Phone: +1 888 555 1234</p></li>
+                                                <li class="icon-email-small"><p class="bold">Email: info@yoktemplates.com</p></li>
+                                                <li class="icon-blog"><p class="bold">Blog: yoktemplates.com</p></li>
+                                            </ul>
+                                        </div>
+                                        <div class="clear-float"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <!--End Contact-->
                         <!--Start Twitter-->
                         <li class="nav-item">
                             <div id="follow">
-															<div class="follow-me-icon"><span class="follow-me-text">kasey.kim90@gmail.com</span></div>                       
+                                <div class="follow-me-icon"><span class="follow-me-text">follow us on twitter</span></div>                       
                             </div>
                         </li>
                         <!--End Twitter-->
                     </ul>
                 </div>
             </div>
-				</div>
-<!----------				<ul id="supersized" class="quality" style="visibility: visible;"><li class="slide-0" style="left: -1345px; visibility: visible;"><a target="_blank"><img src="images/slideshow_01.jpg" style="width: 1345px; left: 0px; top: -357px; height: 1008.75px;"></a></li><li class="slide-1 prevslide" style="visibility: visible; left: -1345px;"><a target="_blank"><img src="images/slideshow_02.jpg" style="width: 1345px; left: 0px; top: -357px; height: 1008.75px;"></a></li><li class="slide-2 activeslide" style="visibility: visible; left: 0px;"><a target="_blank"><img src="images/slideshow_03.jpg" style="width: 1345px; height: 1008.75px; left: 0px; top: -357px;"></a></li><li class="slide-3" style="visibility: visible; left: -1345px;"><a target="_blank"><img src="images/slideshow_04.jpg" style="width: 1345px; height: 1008.75px; left: 0px; top: -357px;"></a></li></ul>
-				<div class="pp_pic_holder light_square" style="top: 583px; left: 570px; display: block; width: 205px;"> 						<div class="ppt" style="opacity: 1; display: block; width: 165.23595505617976px;">&nbsp;</div> 						<div class="pp_top"> 							<div class="pp_left"></div> 							<div class="pp_middle"></div> 							<div class="pp_right"></div> 						</div> 						<div class="pp_content_container"> 							<div class="pp_left"> 							<div class="pp_right"> 								<div class="pp_content" style="height: 133px; width: 165px;"> 									<div class="pp_loaderIcon" style="display: none;"></div> 									<div class="pp_fade" style="display: block;"> 										<a href="#" class="pp_expand" title="Expand the image" style="display: inline;">Expand</a> 										<div class="pp_hoverContainer" style="height: 95px; width: 165px;"> 											<a class="pp_next" href="#">next</a> 											<a class="pp_previous" href="#">previous</a> 										</div> 										<div id="pp_full_res"><img id="fullResImage" src="images/portfolio/port_image_the_bg.jpg" style="height: 95px; width: 165px;"></div> 										<div class="pp_details" style="width: 165.23595505617976px;"> 											<div class="pp_nav" style=""><a href="#" class="pp_play">Play</a> 												<a href="#" class="pp_arrow_previous">Previous</a> 												<p class="currentTextHolder">1/3</p> 												<a href="#" class="pp_arrow_next">Next</a> 											</div> 											<p class="pp_description" style="display: block;"></p> 											<a class="pp_close" href="#">Close</a> 										</div> 									</div> 								</div> 							</div> 							</div> 						</div> 						<div class="pp_bottom"> 							<div class="pp_left"></div> 							<div class="pp_middle"></div> 							<div class="pp_right"></div> 						</div> 					</div>
-				<div class="pp_overlay" style="opacity: 0.8; height: 1630px; width: 1345px; display: block;"></div>
-				------>
+        </div>
     </body>
 </html>
+
 
