@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'therubyracer'
 gem 'rails', '3.2.13'
 
 # Bundle edge Rails instead:
